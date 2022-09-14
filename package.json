@@ -1,6 +1,6 @@
 {
-  "name": "test-type-definition",
-  "author": "right-handed",
+  "name": "@testrtc/scripts-type-definition",
+  "author": "testRTC",
   "description": "TypeScript definitions for testRTC script commands",
   "license": "ISC",
   "version": "1.0.0",
@@ -9,10 +9,17 @@
   "dependencies": {
     "@types/nightwatch": "^2.3.7"
   },
-  "typeScriptVersion": "4.6.2",
   "files": [
     "env.d.ts",
     "client.d.ts",
     "index.d.ts"
-  ]
+  ],
+  "keywords": [
+    "webrtc",
+    "testrtc",
+    "assets",
+    "tests",
+    "scripts"
+  ],
+  "typeScriptVersion": "4.5"
 }

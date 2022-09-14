@@ -1,5 +1,4 @@
 // Type definitions for testRTC scripts
-// TypeScript Version: 4.6.2
 import { TestRTCEnv } from "./env";
 import { Client } from "./client";
 

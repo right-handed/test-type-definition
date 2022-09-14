@@ -11,6 +11,7 @@
     "rootDir": "/",
     "allowJs": false,
     "skipLibCheck": false,
+    "skipDefaultLibCheck": false,
     "newLine": "lf"
   },
   "exclude": ["node_modules"],
