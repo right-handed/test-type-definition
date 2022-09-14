@@ -12,6 +12,7 @@
   "files": [
     "env.d.ts",
     "client.d.ts",
+    "global.d.ts",
     "index.d.ts"
   ],
   "keywords": [
