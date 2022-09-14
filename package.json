@@ -3,7 +3,7 @@
   "author": "testRTC",
   "description": "TypeScript definitions for testRTC script commands",
   "license": "ISC",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "types": "index.d.ts",
   "type": "module",
   "dependencies": {
