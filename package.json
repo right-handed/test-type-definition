@@ -1,5 +1,5 @@
 {
-  "name": "@testrtc/scripts-type-definition",
+  "name": "test-type-definition",
   "author": "testRTC",
   "description": "TypeScript definitions for testRTC script commands",
   "license": "ISC",
